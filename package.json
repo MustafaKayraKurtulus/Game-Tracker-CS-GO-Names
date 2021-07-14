@@ -1,0 +1,56 @@
+{
+  "_from": "gametracker-scraper",
+  "_id": "gametracker-scraper@1.0.2",
+  "_inBundle": false,
+  "_integrity": "sha512-wlJSXJh0n/NgVxs2RbsAL5PmRuAA6j8uYeNnEX9GWwOUNx2uUPPJPz8/Ey+D5rmLjTAqAUnAiHnyrwxr9SLe5w==",
+  "_location": "/gametracker-scraper",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "gametracker-scraper",
+    "name": "gametracker-scraper",
+    "escapedName": "gametracker-scraper",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/gametracker-scraper/-/gametracker-scraper-1.0.2.tgz",
+  "_shasum": "0f51d6c0d6a5338ec2252d3bbdd71df6b69567a4",
+  "_spec": "gametracker-scraper",
+  "_where": "C:\\Users\\Dell\\Desktop\\Client",
+  "author": {
+    "name": "Kayra"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "axios": "^0.21.1",
+    "cheerio": "^1.0.0-rc.5"
+  },
+  "deprecated": false,
+  "description": "A module that allows you to scraping from Gametracker",
+  "keywords": [
+    "gametracker",
+    "gametracker-scraper",
+    "gametracker-scrapper",
+    "game",
+    "game-info",
+    "game-server",
+    "game-server-scraper",
+    "game-scraper",
+    "game-server-info",
+    "scrapper",
+    "scraper"
+  ],
+  "license": "MIT",
+  "main": "script.js",
+  "name": "gametracker-scraper",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.2"
+}
