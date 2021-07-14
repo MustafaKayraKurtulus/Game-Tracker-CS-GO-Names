@@ -18,7 +18,6 @@ let info = await module.get('https://www.gametracker.com/server_info/SERVER IP S
 console.log(`\`\`\`${info}\`\`\``)
 }
 output()
-     
     }   
 }) 
 
